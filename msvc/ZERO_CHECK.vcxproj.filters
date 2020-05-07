@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\laszip-3.4.3\msvc\CMakeFiles\7fe3e5e15be7e2b320eef73a79cb2653\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{571E2356-70BF-35BE-8865-FF173DE2524C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

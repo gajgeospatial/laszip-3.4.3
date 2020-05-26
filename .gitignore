@@ -11,7 +11,4 @@ vc141
 **/*.sdf
 **/*.VC.db
 **/ipch*
-**/ImVecTool/*
-CDB_Builder.VC.VC.opendb
-*.suo
 *.suo

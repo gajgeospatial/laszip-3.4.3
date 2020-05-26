@@ -1,0 +1,1 @@
+This project should be installed as LASZIP3_DIR with ProjectTool.

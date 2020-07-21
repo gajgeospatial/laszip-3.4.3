@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1062
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{1372627E-A8BF-3403-8CE1-BBD65AFE5722}"
 EndProject
@@ -18,6 +18,10 @@ Global
 		vs2017_Debug|x64 = vs2017_Debug|x64
 		vs2017_Release|Win32 = vs2017_Release|Win32
 		vs2017_Release|x64 = vs2017_Release|x64
+		vs2019_Debug|Win32 = vs2019_Debug|Win32
+		vs2019_Debug|x64 = vs2019_Debug|x64
+		vs2019_Release|Win32 = vs2019_Release|Win32
+		vs2019_Release|x64 = vs2019_Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.Debug|Win32.ActiveCfg = Debug|Win32
@@ -36,6 +40,14 @@ Global
 		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2017_Release|Win32.Build.0 = vs2017_Release|Win32
 		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2017_Release|x64.ActiveCfg = vs2017_Release|x64
 		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2017_Release|x64.Build.0 = vs2017_Release|x64
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Debug|Win32.ActiveCfg = vs2019_Debug|Win32
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Debug|Win32.Build.0 = vs2019_Debug|Win32
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Release|Win32.ActiveCfg = vs2019_Release|Win32
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Release|Win32.Build.0 = vs2019_Release|Win32
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{DA1E54BB-9D4A-3C57-8423-629CB41AE16B}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
 		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.Debug|Win32.ActiveCfg = Debug|Win32
 		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.Debug|Win32.Build.0 = Debug|Win32
 		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.Debug|x64.ActiveCfg = Debug|x64
@@ -52,6 +64,14 @@ Global
 		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2017_Release|Win32.Build.0 = vs2017_Release|Win32
 		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2017_Release|x64.ActiveCfg = vs2017_Release|x64
 		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2017_Release|x64.Build.0 = vs2017_Release|x64
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Debug|Win32.ActiveCfg = vs2019_Debug|Win32
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Debug|Win32.Build.0 = vs2019_Debug|Win32
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Release|Win32.ActiveCfg = vs2019_Release|Win32
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Release|Win32.Build.0 = vs2019_Release|Win32
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{5E738D66-9147-3EE6-AB9F-ED4C4304B005}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
